@@ -1,7 +1,11 @@
+
+/* This should apply to the whole webpage itself*/
+
 * {
     background-color: rgb(251, 205, 212);
     font-size:100%;
     font-family: Arial, Helvetica, sans-serif;
+
 
 }
 
@@ -22,6 +26,9 @@ h1{
     background-color: rgb(246, 220, 242);
 }   
 
+/*Changed the navbar to flex box (made it into a class in the HTML and added justify-content so that it could go 
+to the right of the page*/
+
 .navbar{
     display: flex;
     justify-content: right;
@@ -34,6 +41,8 @@ h1{
     font-size: 120%;
 
 }
+
+/*This was to resize the images so it could be made into three separate images side by side on the webpage*/
 
 .resize{
     width: 450px;
@@ -80,6 +89,8 @@ section p{
     height:500px;
     margin-left: 350px;
 }
+
+/*To change the nav bar to have a white background when mouse hovers over*/
 
 .navbar a:hover{
     background-color: white;
