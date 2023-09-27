@@ -95,6 +95,15 @@ section p{
     background-color: white;
 }
 
+@media screen  and (max-width: 992px) {
+    header{
+        display: inline;
+    }
+}
 
-
-
+@media screen and (max-width: 992px){
+    .resize{
+        display: inline;
+    }
+    
+}
