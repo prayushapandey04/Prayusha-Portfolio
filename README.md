@@ -8,7 +8,7 @@ This is the baseline/outline of my professional portfolio which will be constant
 
 ## User Story
 
-AS A hiring company, I WANT to be able to view the potential emoloyee's professional portfolio so that I can view all of their work. I WANT navigation to their linkedin and github accounts and I WANT to see a navigation bar for each section which describes themselves, the work they have done, and their contact information.
+AS A hiring company, I WANT to be able to view the potential employee's professional portfolio so that I can view all of their work. I WANT navigation to their Linkedin and Github accounts and I WANT to see a navigation bar for each section which describes themselves, the work they have done, and their contact information.
 
 ## Usage
 
