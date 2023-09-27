@@ -32,7 +32,7 @@ to the right of the page*/
     display: flex;
     justify-content: right;
     position: relative;
-    margin-left: 500px;
+    margin-left: 300px;
 }
 
 .navbar a{
@@ -44,7 +44,7 @@ to the right of the page*/
 /*This was to resize the images so it could be made into three separate images side by side on the webpage*/
 
 .resize{
-    width: 450px;
+    width: 420px;
     height:100px;
     margin-left: 30px;
 }
