@@ -68,8 +68,14 @@ section p{
     width:600px;
     height:300px;
     margin-left: 450px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
+
+.first-project {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
 
 .links{
     margin: 10px;
@@ -87,6 +93,7 @@ section p{
     width:800px;
     height:500px;
     margin-left: 350px;
+    margin-top: 70px;
 }
 
 /*To change the nav bar to have a white background when mouse hovers over*/
